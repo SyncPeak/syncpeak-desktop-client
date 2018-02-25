@@ -1,0 +1,15 @@
+{
+  "name": "syncpeak-client",
+  "version": "0.0.1-alpha",
+  "license": "GPLv3",
+  "main": "./main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "build": {
+    "appId": "syncpeak.desktop.client"
+  },
+  "dependencies": {
+    "material-ui": "^1.0.0-beta.34"
+  }
+}
