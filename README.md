@@ -1,2 +1,2 @@
-# syncpeak-desktop-client
+# syncpeak-desktop-client (Dev)
 An internet radio software having advanced capabilities on desktop. It aims to have features that existing internet radio softwares don't have.
